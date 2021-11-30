@@ -1,0 +1,36 @@
+| 항목 | 타입 | 설명 | 옵션 |
+
+| --- | --- | --- | --- |
+
+|responseStatus|Object|||
+
+|└code|Int|||
+
+|└message|String|||
+
+|entities|Array|||
+
+|└tagCode|Int|||
+
+|└tag|String|||
+
+|└checked|Int|||
+
+| 항목 | 타입 | 설명 | 옵션 |
+
+| --- | --- | --- | --- |
+
+|responseStatus|Object|||
+
+|└code|Int|||
+
+|└message|String|||
+
+|entities|Array|||
+
+|└tagCode|Int|||
+
+|└tag|String|||
+
+|└checked|Int|||
+

@@ -1,0 +1,18 @@
+{
+        "responseStatus": {
+                "code": 1000,
+                "message": "Success"
+        },
+  "entities": [
+    {
+      "tagCode": 1,
+      "tag": "식단",
+      "checked": 1
+    },
+    {
+      "tagCode": 2,
+      "tag": "부작용",
+      "checked": 0
+    }
+  ]
+}
